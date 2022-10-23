@@ -1,5 +1,5 @@
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vrtualunionsex/fsub-3)</br>
+[![Deploy](https://github.com/vrtualunionsex/fsub-3)</br>
 
 
 #### Deploy to bot Heroku

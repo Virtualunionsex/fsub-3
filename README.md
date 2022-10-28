@@ -6,9 +6,9 @@
 
 
 #### Deploy on vps 
-1. git clone https://github.com/mrismanaziz/File-Sharing-Man
-2. cd File-Sharing-Man
-sudo apt install python3-pip
+1. git clone https://github.com/Virtualunionsex/fsub-3
+2. cd fsub-3
+3 sudo apt install python3-pip
 3. pip3 install -r requirements.txt
 4. cp sample_config.env config.env
 5. nano config.env ( isi vars nya )

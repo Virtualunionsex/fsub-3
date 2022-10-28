@@ -51,11 +51,44 @@
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
-      "value": "<b>Hello {first}\n\nSaya dapat menyimpan file pribadi di Channel Tertentu dan pengguna lain dapat mengaksesnya dari link khusus.</b>"
+      "value": "<b>Hello {first} 🕹 PROMO VIP MURAH 
+
+➢ PROMO VIP 4 GRUP RANDOM 2OK
+➢ PROMO VIP SPECIAL 20K
+➢ VIP INDO AND ONLYFANS 20K
+➢ VIP JAPAN / JAV ONLY 2OK 
+➢ VIP BARAT ONLY 2OK 
+➢ VIP HENTAI 2OK 
+
+🧺 AMBIL 3 PROMO 🛒50K SAJA
+🧺 AMBIL SEMUA TOTAL 9 GRUP  CUKUP 🛒 90K
+
+CEK INFO : @VIPCHOPPER_NEW
+ADMIN : @CYELLAKU.</b>"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
-      "value": "<b>Hello {first} </b>"
+      "value": "<b>Hello {first} 🕹 PROMO VIP MURAH 
+
+➢ PROMO VIP 4 GRUP RANDOM 2OK
+
+➢ PROMO VIP SPECIAL 20K
+
+➢ VIP INDO AND ONLYFANS 20K
+
+➢ VIP JAPAN / JAV ONLY 2OK 
+
+➢ VIP BARAT ONLY 2OK 
+
+➢ VIP HENTAI 2OK 
+
+🧺 AMBIL 3 PROMO 🛒50K SAJA
+
+🧺 AMBIL SEMUA TOTAL 9 GRUP  CUKUP 🛒 90K
+
+CEK INFO : @VIPCHOPPER_NEW
+
+ADMIN : @CYELLAKU </b>"
     },
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",

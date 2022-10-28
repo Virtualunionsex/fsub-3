@@ -56,7 +56,20 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<b>Hello {first}\n\nAnda harus bergabung di Channel/Grup saya Terlebih dahulu untuk Melihat File yang saya Bagikan\n\nSilakan Join Ke Channel & Group Terlebih Dahulu</b>",
+    "<b>Hello {first}\n\n🕹 PROMO VIP MURAH 
+
+➢ PROMO VIP 4 GRUP RANDOM 2OK
+➢ PROMO VIP SPECIAL 20K
+➢ VIP INDO AND ONLYFANS 20K
+➢ VIP JAPAN / JAV ONLY 2OK 
+➢ VIP BARAT ONLY 2OK 
+➢ VIP HENTAI 2OK 
+
+🧺 AMBIL 3 PROMO 🛒50K SAJA
+🧺 AMBIL SEMUA TOTAL 9 GRUP  CUKUP 🛒 90K
+
+CEK INFO : @VIPCHOPPER_NEW
+ADMIN : @CYELLAKU\n\nSilakan Join Ke Channel & Group Terlebih Dahulu</b>",
 )
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
